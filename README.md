@@ -1,1 +1,1 @@
-# SynchronisationPrimitives
+# Synchronization Primitives
